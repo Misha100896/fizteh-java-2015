@@ -1,3 +1,4 @@
+*.properties
 .DS_Store
 *.txt
 *.class
@@ -19,3 +20,4 @@ workbench.xmi
 *.swp
 .settings
 .checkstyle
+twitter4j.properties
